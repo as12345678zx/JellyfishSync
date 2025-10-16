@@ -9,7 +9,7 @@
   ],
   "settings": {
     "paginationEnabled": true,
-    "themeStyle": "neumorphism",
+    "themeStyle": "glass",
     "jellyBall": {
       "enabled": false,
       "swipeBack": true,
@@ -20,10 +20,7 @@
       "name": "",
       "url": ""
     },
-    "fontPresets": [],
-    "mobileMode": {
-      "enabled": true
-    }
+    "fontPresets": []
   },
   "themePresets": [
     {
