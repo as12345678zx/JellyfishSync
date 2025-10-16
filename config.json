@@ -135,6 +135,16 @@
           "openExternally": false
         }
       ]
+    },
+    {
+      "name": "付费",
+      "buttons": [
+        {
+          "text": "liaobots",
+          "href": "https://liaobots.work/ic/IHQQTB",
+          "openExternally": false
+        }
+      ]
     }
   ],
   "settings": {
