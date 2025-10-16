@@ -5,6 +5,16 @@
     {
       "name": "全部",
       "buttons": []
+    },
+    {
+      "name": "小手机",
+      "buttons": [
+        {
+          "text": "猫猫宁",
+          "href": "https://annamei76753.github.io/maomaomaomao123456/",
+          "openExternally": false
+        }
+      ]
     }
   ],
   "settings": {
