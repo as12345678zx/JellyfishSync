@@ -185,6 +185,15 @@
         "nightColor1": "#1f2a40",
         "nightColor2": "#16213e"
       }
+    },
+    {
+      "name": "keke",
+      "colors": {
+        "dayColor1": "#f5f7fa",
+        "dayColor2": "#e4eaf5",
+        "nightColor1": "#1f2a40",
+        "nightColor2": "#16213e"
+      }
     }
   ],
   "lockscreenWidgets": {}
